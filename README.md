@@ -1,32 +1,46 @@
-for freelance work? do reach, [email](mailto:mansourtt7@hotmail.com) :)
+# Hi there, I'm MansourWafi 👋
 
-📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
+<div align="center">
+  <img width="100%" src="https://github.com/MansourWafi/MansourWafi/blob/main/assets/cover.png" alt="cover" />
+</div>
 
-```txt
-TypeScript   5 hrs 12 mins         ██████████████▓░░░░░░░░░░   58.26 %
-Markdown     1 hr 27 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.27 %
-Go           50 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.44 %
-Python       29 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.58 %
-Diff         29 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.56 %
-```
+<table>
+  <thead>
+    <tr>
+      <td align="center">
+        <span><strong>Programming Languages</strong></span>
+      </td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=python,java,cpp" alt="skills" />
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-<!--END_SECTION:waka-->
+<br /><br />
 
+## About me
+I'm a first-year computer science student passionate about programming. I'm currently learning Python, Java, and C++, and I'm always exploring new technologies and improving my skills.
 
-🚧 **my todoist stats:**
-<!-- TODO-IST:START -->
-🏆  8,004 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 673 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
+<br /><br />
 
+## My GitHub stats
+<a href="https://github.com/MansourWafi/MansourWafi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MansourWafi&bg_color=071A2C&icon_color=4194FD&show_icons=true&count_private=true&theme=tokyonight&line_height=27&text_color=FFFFFF" alt="MansourWafi's github stats"/>
+</a>
 
-📈 my github stats
+<br /><br />
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
-
-
-
-
+<h2><i>Follow me:</i></h2>
+<div align="center">
+  <a href="https://github.com/MansourWafi" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=flat-square&logo=github&logoColor=white&color=071A2C" alt="GitHub">
+  </a>
+  <a href="mailto:mansourtt7@hotmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-%231877F2.svg?&style=flat-square&logo=microsoftoutlook&logoColor=white&color=071A2C" alt="Email">
+  </a>
+</div>
