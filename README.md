@@ -1,7 +1,5 @@
-# Hi there, I'm MansourWafi 👋
-
 <div align="center">
-  <img width="100%" src="https://github.com/MansourWafi/MansourWafi/blob/main/assets/cover.png" alt="cover" />
+  <h1>Hi there, I'm MansourWafi 👋</h1>
 </div>
 
 <table>
