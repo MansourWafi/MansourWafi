@@ -28,7 +28,7 @@ I'm a first-year computer science student passionate about programming. I'm curr
 
 ## My GitHub stats
 <a href="https://github.com/MansourWafi/MansourWafi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MansourWafi&bg_color=071A2C&icon_color=4194FD&show_icons=true&count_private=true&theme=tokyonight&line_height=27&text_color=FFFFFF" alt="MansourWafi's github stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MansourWafi&bg_color=071A2C&icon_color=4194FD&show_icons=true&theme=tokyonight&line_height=27&text_color=FFFFFF" alt="MansourWafi's github stats"/>
 </a>
 
 <br /><br />
