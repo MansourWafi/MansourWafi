@@ -22,7 +22,7 @@
 <br /><br />
 
 ## About me
-I'm a first-year computer science student passionate about programming. I'm currently learning Python, Java, and C++, and I'm always exploring new technologies and improving my skills.
+I'm a second-year computer science student passionate about programming. I'm currently learning Python, Java, and C++, and I'm always exploring new technologies and improving my skills.
 
 <br /><br />
 
