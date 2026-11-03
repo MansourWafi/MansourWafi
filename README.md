@@ -21,7 +21,7 @@
 
 <br /><br />
 
-## About me
+
 ## About Me
 
 👋 Hi, I'm **Mansour**, a second-year Computer Science student who enjoys building practical projects and learning how things work under the hood.
