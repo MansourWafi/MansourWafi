@@ -22,7 +22,24 @@
 <br /><br />
 
 ## About me
-I'm a second-year computer science student passionate about programming. I'm currently learning Python, Java, and C++, and I'm always exploring new technologies and improving my skills.
+## About Me
+
+👋 Hi, I'm **Mansour**, a second-year Computer Science student who enjoys building practical projects and learning how things work under the hood.
+
+### What I'm Working On
+- 🌐 Networking: VLANs, inter-VLAN routing, and static routing with Cisco Packet Tracer
+- ☕ Desktop apps with Java (Swing, OOP)
+- 🐍 Learning Python and C++ through hands-on practice
+
+### Skills
+- **Languages:** Java, Python, C++
+- **Networking:** VLANs, Trunking, Routing, IP Subnetting
+- **Tools:** Git, GitHub, NetBeans, Cisco Packet Tracer
+
+### Goals
+- Build more real-world projects and strengthen my problem-solving skills
+- Keep exploring new technologies and improving every day
+
 
 <br /><br />
 
